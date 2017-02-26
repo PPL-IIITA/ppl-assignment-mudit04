@@ -1,9 +1,9 @@
 # ppl-assignment-mudit04
 ppl-assignment-mudit04 created by GitHub Classroom
 
-Mudit Dubey (LIT2015006)
+# Mudit Dubey (LIT2015006)
 
-Details ::
+# Details ::
 
 Operating System - Windows 8.1
 
